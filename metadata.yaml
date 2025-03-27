@@ -1,0 +1,29 @@
+_repo: Die-Friedensburg-bei-Leutenberg-b-Eine-thuringische-Grenzfeste-und-ihre-Bewohner_75588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rein, Berthold
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '55093'
+    url: http://www.gutenberg.org/2009/agents/55093
+    wikipedia: https://de.wikipedia.org/wiki/Berthold_Rein
+description: ''
+gutenberg_issued: '2025-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75588'
+language: de
+pgterms:marc905: 20240419235027rein
+pgterms:marc906: '1925'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aRudolstadt :$bGreifenverlag, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Die Friedensburg bei Leutenberg : $b Eine thüringische Grenzfeste und ihre
+  Bewohner'
+url: http://www.gutenberg.org/ebooks/75588
